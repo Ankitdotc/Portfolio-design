@@ -108,6 +108,12 @@ hr {
     display: block;
     margin: auto;
 }
+.head .hero-img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
 
 .hero .hero-heading {
     text-align: center;
@@ -152,8 +158,14 @@ hr {
 .footer .footer-header {
     font-weight: bold;
     font-size: large;
+    padding:2rem 2rem;
 }
 
 .footer ul {
     padding-inline-start: 0px;
+    margin: auto;
+    padding:0;
+    width:50vw;
+    height:22.5vh;
+    font-size:10px;
 }
